@@ -10,8 +10,8 @@ title: Montreux Wohunung
 email: saga.westerberg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Charming apartment overlooking Montreux.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lab27.github.io/montreux" # the base hostname & protocol for your site
+baseurl: "/montreux" # the subpath of your site, e.g. /blog
+url: "http://lab27.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
